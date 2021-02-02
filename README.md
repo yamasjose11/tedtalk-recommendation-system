@@ -23,6 +23,19 @@ Using TF-IDF is a basic approach that helps us in creating our recommender syste
 
 (EDA on words count and or recommandation of input)
 
+  | Recommendations for *Simon Sinek: How great leaders inspire action*  |
+  | --------------------------------------------|
+   Seth Godin: How to get your ideas to spread
+Scott Dinsmore: How to find work you love
+Tony Robbins: Why we do what we do
+Ricardo Semler: How to run a company with (almost) no rules
+Jeff Hawkins: How brain science will change computing
+Michael Norton: How to buy happiness
+Yuval Noah Harari: Nationalism vs. globalism: the new political divide
+Jessica Jackley: Poverty, money -- and love
+Seth Godin: The tribes we lead
+
+
 ## LDA Recommender
 
 With the LDA approach we are utilizing topic modeling that allows us the discover nominal "topics" that occur in a collection of documents. Latent Dirichlet Allocation (LDA)
