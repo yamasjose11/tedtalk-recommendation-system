@@ -1,5 +1,6 @@
 # TED Talk Recommendation System
 
+![Title Image](https://github.com/yamasjose11/tedtalk-recommendation-system/blob/main/images/tedtalkmainpage.png)
 
 # Motivation and Objective
 
