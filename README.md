@@ -15,13 +15,16 @@ A content-based approach in our case gives recommendations based on the similari
 
 My data is comprised of two datasets from data.world(link to lower reference part of page) after joining the datasets I have one dataset that contains over 2,500 offical TED Talk Transcripts up to late 2017. This is where the majority of the text-processing of the data will be conducted to make use of a better translating of a recommender. 
 
+<!-- Word Count Distribution EDA -->
+<p align="center">
+  <img width="600" height="250" src="https://github.com/yamasjose11/tedtalk-recommendation-system/blob/main/images/doc_word_dist.png">
+</p>
+
 # Recommender System Approach
 
 ## TF-IDF Recommender
 
 Using TF-IDF is a basic approach that helps us in creating our recommender system by evaluating the corpus and vectorizing it. This is done by using the *Term Frequency* and mulitplying it by the *Inverse of the Document Frequency*. This allows us to focus on the importance of the words used across each document. 
-
-(EDA on words count and or recommandation of input)
 
   | Recommendations for *Simon Sinek: How great leaders inspire action* using TF-IDF |
   | --------------------------------------------|
@@ -35,12 +38,12 @@ Yuval Noah Harari: Nationalism vs. globalism: the new political divide
 Jessica Jackley: Poverty, money -- and love
 Seth Godin: The tribes we lead
 
+After the implementation of the TF-IDF method we see a good recommandations of other TED Talks that revolve around the science of leadership and self development which I believe to be the focal point of the input TED Talk by Simon Sinek.
+
 
 ## LDA Recommender
 
-With the LDA approach we are utilizing topic modeling that allows us the discover nominal "topics" that occur in a collection of documents. Latent Dirichlet Allocation (LDA)
-
-(EDA on words count and or recommandation of input)
+With the LDA approach we are utilizing topic modeling that allows us the discover nominal "topics" that occur in a collection of documents. In other words, Latent Dirichlet Allocation (LDA) helps us classify our text to a particular "topic" in our baseline LDA model we use the default 10 topics.
 
   | Recommendations for *Simon Sinek: How great leaders inspire action* using LDA |
   | --------------------------------------------|
@@ -53,6 +56,8 @@ Mona Chalabi: 3 ways to spot a bad statistic
 Marvin Minsky: Health and the human mind
 Mathias Jud: Art that lets you talk back to NSA spies
 Alain de Botton: Atheism 2.0' 'Hans Rosling: New insights on poverty
+
+Unlike the TF-IDF approach, the suggestions given by the basic LDA approach could be better as some of the recommendations are not very in tune with what I felt were the main focus of the input suggestion by Simon Sinek. So in conclusion the TF-IDF approach has given us more better generic reocmmendations from the choise of TED Talks it decides to return. 
 
 # Future Development
 
