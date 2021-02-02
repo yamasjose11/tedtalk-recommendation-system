@@ -17,7 +17,7 @@ My data is comprised of two datasets from data.world(link to lower reference par
 
 <!-- Word Count Distribution EDA -->
 <p align="center">
-  <img width="600" height="250" src="https://github.com/yamasjose11/tedtalk-recommendation-system/blob/main/images/doc_word_dist.png">
+  <img width="600" height="300" src="https://github.com/yamasjose11/tedtalk-recommendation-system/blob/main/images/doc_word_dist.png">
 </p>
 
 # Recommender System Approach
