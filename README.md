@@ -1,4 +1,4 @@
-# tedtalk-recommendation-system Title
+# tTED Talk Recommendation System
 
 
 # Motivation and Objective
@@ -14,7 +14,7 @@ A content-based approach in our case gives recommendations based on the similari
 
 My data is comprised of two datasets from data.world(link to lower reference part of page) after joining the datasets I have one dataset that contains over 2,500 offical TED Talk Transcripts up to late 2017. This is where the majority of the text-processing of the data will be conducted to make use of a better translating of a recommender. 
 
-# The Recommender System Approach
+# Recommender System Approach
 
 ## TF-IDF Recommender
 
