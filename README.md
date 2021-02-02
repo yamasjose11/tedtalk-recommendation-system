@@ -42,6 +42,17 @@ With the LDA approach we are utilizing topic modeling that allows us the discove
 
 (EDA on words count and or recommandation of input)
 
+  | Recommendations for *Simon Sinek: How great leaders inspire action*  |
+  | --------------------------------------------|
+John Maeda: How art, technology and design inform creative leaders
+Sylvia Earle: My wish: Protect our oceans
+Kandice Sumner: How America's public schools keep kids in poverty
+David Deutsch: Chemical scum that dream of distant quasars
+Colin Camerer: When you're making a deal, what's going on in your brain?
+Mona Chalabi: 3 ways to spot a bad statistic
+Marvin Minsky: Health and the human mind
+Mathias Jud: Art that lets you talk back to NSA spies
+Alain de Botton: Atheism 2.0' 'Hans Rosling: New insights on poverty
 
 # Future Development
 
