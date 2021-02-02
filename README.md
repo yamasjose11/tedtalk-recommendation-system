@@ -6,7 +6,7 @@
 
 My motivation for this project is woven in my underlying passion for learning and TED Talks never fail to teach me something new. I want to see if i can replicate what most major major streaming services do and that is see if I can explore and build my very own recommender system. With this as my main focus I will try and stick to building a content based recommender using various tool and methods to achieve just that.
 
-# Content-Base Recommender System
+# Content-Based Recommender System
 
 *A **content-based recommender** looks at the characteristics of the users and items to determine what to recommend. For instance, suppose your open a new MovieBinge account and it asks you for your favorite genres. If you say you like Science Fiction and Comedy, it might recommend Galaxy Quest.*
 A content-based approach in our case gives recommendations based on the similarity bewteen different TED Talk attributes. Content-based recommenders are very efficient and very easy to interpret, and are usually great recommenders for new users. 
@@ -61,7 +61,7 @@ Unlike the TF-IDF approach, the suggestions given by the basic LDA approach coul
 
 # Future Development
 
-Going forward I would like to expand on this recommender system by making it a hybrid recommender system by combining my current content based recommender system and a newly built collabarative filtering system. This will help me with exploring user personalization and better targeted recommendations.
+Going forward I would like to expand on this recommender system by making it a hybrid recommender system by combining my current content based recommender system and a newly built collabarative filtering system. This will help me with exploring user personalized recommendations.
 
 # References
 
