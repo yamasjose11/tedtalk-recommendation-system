@@ -23,7 +23,7 @@ Using TF-IDF is a basic approach that helps us in creating our recommender syste
 
 (EDA on words count and or recommandation of input)
 
-  | Recommendations for *Simon Sinek: How great leaders inspire action*  |
+  | Recommendations for *Simon Sinek: How great leaders inspire action* using TF-IDF |
   | --------------------------------------------|
    Seth Godin: How to get your ideas to spread
 Scott Dinsmore: How to find work you love
@@ -42,7 +42,7 @@ With the LDA approach we are utilizing topic modeling that allows us the discove
 
 (EDA on words count and or recommandation of input)
 
-  | Recommendations for *Simon Sinek: How great leaders inspire action*  |
+  | Recommendations for *Simon Sinek: How great leaders inspire action* using LDA |
   | --------------------------------------------|
 John Maeda: How art, technology and design inform creative leaders
 Sylvia Earle: My wish: Protect our oceans
