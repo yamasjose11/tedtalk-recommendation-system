@@ -23,12 +23,36 @@ Using TF-IDF is a basic approach that helps us in creating our recommender syste
 
 (EDA on words count and or recommandation of input)
 
+  | Recommendations for *Simon Sinek: How great leaders inspire action* using TF-IDF |
+  | --------------------------------------------|
+   Seth Godin: How to get your ideas to spread
+Scott Dinsmore: How to find work you love
+Tony Robbins: Why we do what we do
+Ricardo Semler: How to run a company with (almost) no rules
+Jeff Hawkins: How brain science will change computing
+Michael Norton: How to buy happiness
+Yuval Noah Harari: Nationalism vs. globalism: the new political divide
+Jessica Jackley: Poverty, money -- and love
+Seth Godin: The tribes we lead
+
+
 ## LDA Recommender
 
 With the LDA approach we are utilizing topic modeling that allows us the discover nominal "topics" that occur in a collection of documents. Latent Dirichlet Allocation (LDA)
 
 (EDA on words count and or recommandation of input)
 
+  | Recommendations for *Simon Sinek: How great leaders inspire action* using LDA |
+  | --------------------------------------------|
+John Maeda: How art, technology and design inform creative leaders
+Sylvia Earle: My wish: Protect our oceans
+Kandice Sumner: How America's public schools keep kids in poverty
+David Deutsch: Chemical scum that dream of distant quasars
+Colin Camerer: When you're making a deal, what's going on in your brain?
+Mona Chalabi: 3 ways to spot a bad statistic
+Marvin Minsky: Health and the human mind
+Mathias Jud: Art that lets you talk back to NSA spies
+Alain de Botton: Atheism 2.0' 'Hans Rosling: New insights on poverty
 
 # Future Development
 
