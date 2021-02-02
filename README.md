@@ -1,4 +1,4 @@
-# tTED Talk Recommendation System
+# TED Talk Recommendation System
 
 
 # Motivation and Objective
